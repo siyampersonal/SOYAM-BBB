@@ -3,7 +3,6 @@ aiohttp
 PyJWT
 pycryptodome
 blackboxprotobuf
-protobuf==4.21.12
-setuptools<81
 requests
 colorama
+setuptools<81
