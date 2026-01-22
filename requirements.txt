@@ -6,3 +6,4 @@ blackboxprotobuf
 requests
 colorama
 setuptools<81
+protobuf<4
